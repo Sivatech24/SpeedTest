@@ -1,6 +1,5 @@
-flask
+Flask
 gunicorn
-speedtest
-psutil
-time
-json
+speedtest-cli
+flask-cors
+requests

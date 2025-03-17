@@ -3,3 +3,4 @@ gunicorn
 speedtest-cli
 flask-cors
 requests
+psutil

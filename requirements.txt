@@ -1,2 +1,7 @@
 flask
 gunicorn
+socket
+speedtest
+psutil
+time
+json
